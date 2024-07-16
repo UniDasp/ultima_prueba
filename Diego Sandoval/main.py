@@ -12,7 +12,7 @@ while True:
     if user == "5":
         clear()
         print("Finalizando...")
-        print("Desarrollado por Diego Sandoval \nRut: 22.205.303-k")
+        print("Desarrollado por Diego Sandoval \nRut: 22... quitado por privacidad, esta en la entrega del AVA.")
         break
 
     if user == "1":
